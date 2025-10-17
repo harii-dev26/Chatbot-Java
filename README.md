@@ -28,7 +28,7 @@ You: bye
 Bot: Goodbye! Have a great day!
 
 
-
+##  Project Structure
 
 Chatbot-Java/
  ├── pom.xml
@@ -44,7 +44,7 @@ Chatbot-Java/
 
 
 
-Tech Stack 
+##  Tech Stack 
 
 
 | Layer      | Technology        |
@@ -55,6 +55,8 @@ Tech Stack
 | Paradigm   | OOP, Console I/O  |
 
 
+Example Interaction
+
 
 Welcome to Hariish's Java Chatbot! Type 'bye' to exit.
 You: Hi
@@ -62,3 +64,9 @@ Bot: I'm sorry, I don't understand that yet. Try asking something else!
 You: bye
 Bot: Goodbye! Have a great day!
 
+
+Author
+
+Hariish Srinivasan
+Built as part of Java mini projects for SDE-1 Role.
+Demonstrates clean code, OOP principles, and Maven build proficiency.
