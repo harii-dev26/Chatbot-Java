@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-11-orange?logo=openjdk)
+![Maven](https://img.shields.io/badge/Maven-Build-red?logo=apachemaven)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 # Chatbot Java
 
 A simple **Java-based console chatbot** built using core Java and Maven.  
@@ -44,6 +49,7 @@ Chatbot-Java/
 
 
 
+
 ##  Tech Stack 
 
 
@@ -55,18 +61,12 @@ Chatbot-Java/
 | Paradigm   | OOP, Console I/O  |
 
 
-Example Interaction
 
 
-Welcome to Hariish's Java Chatbot! Type 'bye' to exit.
-You: Hi
-Bot: I'm sorry, I don't understand that yet. Try asking something else!
-You: bye
-Bot: Goodbye! Have a great day!
+### Author
+**Hariish Srinivasan**  
+Built as part of ** Java Mini Projects for SDE-1 preparation**.  
+Demonstrates clean OOP, modular design, and Maven build proficiency.  
 
+ [GitHub: harii-dev26](https://github.com/harii-dev26)
 
-Author
-
-Hariish Srinivasan
-Built as part of Java mini projects for SDE-1 Role.
-Demonstrates clean code, OOP principles, and Maven build proficiency.
